@@ -670,7 +670,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Lg4y5OQa2A0DNjkFCvk_" name="Trang-5">
-    <mxGraphModel dx="1410" dy="319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -820,19 +820,19 @@
         </mxCell>
         <mxCell id="ws5XBqpUP9ENPVzMK30e-2" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="335" y="620.0000000000001" as="sourcePoint" />
-            <mxPoint x="230" y="620.0000000000001" as="targetPoint" />
+            <mxPoint x="335" y="600.0000000000001" as="sourcePoint" />
+            <mxPoint x="230" y="600.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ws5XBqpUP9ENPVzMK30e-10" value="Đăng nhập thất bại" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=7;" vertex="1" connectable="0" parent="ws5XBqpUP9ENPVzMK30e-2">
           <mxGeometry x="0.012" relative="1" as="geometry">
-            <mxPoint y="-5" as="offset" />
+            <mxPoint y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ws5XBqpUP9ENPVzMK30e-4" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="435" y="600.0000000000001" as="sourcePoint" />
-            <mxPoint x="345" y="600.0000000000001" as="targetPoint" />
+            <mxPoint x="435" y="587.0000000000001" as="sourcePoint" />
+            <mxPoint x="345" y="587.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ws5XBqpUP9ENPVzMK30e-11" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;Mật khẩu không hợp lệ&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=7;" vertex="1" connectable="0" parent="ws5XBqpUP9ENPVzMK30e-4">
@@ -842,14 +842,23 @@
         </mxCell>
         <mxCell id="ws5XBqpUP9ENPVzMK30e-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="640" as="sourcePoint" />
-            <mxPoint x="130" y="640" as="targetPoint" />
+            <mxPoint x="220" y="619" as="sourcePoint" />
+            <mxPoint x="130" y="619" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ws5XBqpUP9ENPVzMK30e-9" value="Hiển thị thông báo lỗi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=7;" vertex="1" connectable="0" parent="ws5XBqpUP9ENPVzMK30e-7">
           <mxGeometry x="0.2874" y="-3" relative="1" as="geometry">
             <mxPoint x="18" y="-3" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ws5XBqpUP9ENPVzMK30e-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.998;entryY=0.53;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130.00000000000023" y="640.2" as="sourcePoint" />
+            <mxPoint x="479.2900000000002" y="640.2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ws5XBqpUP9ENPVzMK30e-16" value="Mật khẩu đúng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="237" y="640" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
