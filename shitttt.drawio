@@ -670,7 +670,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Lg4y5OQa2A0DNjkFCvk_" name="Trang-5">
-    <mxGraphModel dx="1504" dy="371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1410" dy="319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -768,8 +768,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="czEmDI7kKQfxpXy2ypBm-28" value="Đăng nhập thất bại" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=5;" vertex="1" parent="1">
-          <mxGeometry x="245" y="450" width="70" height="20" as="geometry" />
+        <mxCell id="ws5XBqpUP9ENPVzMK30e-14" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;Đăng nhập thất bại&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=6;" vertex="1" connectable="0" parent="czEmDI7kKQfxpXy2ypBm-27">
+          <mxGeometry x="-0.0633" y="-1" relative="1" as="geometry">
+            <mxPoint y="-7" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="czEmDI7kKQfxpXy2ypBm-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -781,11 +783,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="czEmDI7kKQfxpXy2ypBm-31" value="Hiển thị thông báo&lt;div&gt;&amp;nbsp;đăng nhập thất bại&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;container=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="460" width="70" height="30" as="geometry" />
+        <mxCell id="ws5XBqpUP9ENPVzMK30e-12" value="&lt;span style=&quot;font-size: 6px; background-color: rgb(251, 251, 251);&quot;&gt;Hiển thị thông báo&lt;/span&gt;&lt;div style=&quot;font-size: 6px; background-color: rgb(251, 251, 251);&quot;&gt;&amp;nbsp;đăng nhập thất bại&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="czEmDI7kKQfxpXy2ypBm-30">
+          <mxGeometry x="-0.1067" relative="1" as="geometry">
+            <mxPoint y="-14" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="czEmDI7kKQfxpXy2ypBm-32" value="Alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;dashed=1;width=40;height=20;" vertex="1" parent="1">
-          <mxGeometry x="125" y="560" width="355" height="240" as="geometry" />
+          <mxGeometry x="125" y="552" width="355" height="240" as="geometry" />
         </mxCell>
         <mxCell id="czEmDI7kKQfxpXy2ypBm-33" value="Tài khoản tồn tại" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="230" y="503" width="100" height="30" as="geometry" />
@@ -814,13 +818,37 @@
         <mxCell id="czEmDI7kKQfxpXy2ypBm-46" value="Mật khẩu không đúng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="222" y="555" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="czEmDI7kKQfxpXy2ypBm-47" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="ws5XBqpUP9ENPVzMK30e-2" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="435.0000000000002" y="600" as="sourcePoint" />
-            <mxPoint x="342" y="600" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="390" y="600" />
-            </Array>
+            <mxPoint x="335" y="620.0000000000001" as="sourcePoint" />
+            <mxPoint x="230" y="620.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ws5XBqpUP9ENPVzMK30e-10" value="Đăng nhập thất bại" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=7;" vertex="1" connectable="0" parent="ws5XBqpUP9ENPVzMK30e-2">
+          <mxGeometry x="0.012" relative="1" as="geometry">
+            <mxPoint y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ws5XBqpUP9ENPVzMK30e-4" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="435" y="600.0000000000001" as="sourcePoint" />
+            <mxPoint x="345" y="600.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ws5XBqpUP9ENPVzMK30e-11" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;Mật khẩu không hợp lệ&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=7;" vertex="1" connectable="0" parent="ws5XBqpUP9ENPVzMK30e-4">
+          <mxGeometry x="-0.2208" y="2" relative="1" as="geometry">
+            <mxPoint x="-4" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ws5XBqpUP9ENPVzMK30e-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="640" as="sourcePoint" />
+            <mxPoint x="130" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ws5XBqpUP9ENPVzMK30e-9" value="Hiển thị thông báo lỗi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=7;" vertex="1" connectable="0" parent="ws5XBqpUP9ENPVzMK30e-7">
+          <mxGeometry x="0.2874" y="-3" relative="1" as="geometry">
+            <mxPoint x="18" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
