@@ -2325,7 +2325,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9QqiyG1SsFGtMpHnvr0R" name="Page-18">
-    <mxGraphModel dx="201" dy="112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="870" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2375,7 +2375,7 @@
         <mxCell id="Z6RI-hvXufybQgmFaxgk-26" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Z6RI-hvXufybQgmFaxgk-4">
           <mxGeometry x="21" y="219" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z6RI-hvXufybQgmFaxgk-27" value="6 Xử lý xóa sản phẩm" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="Z6RI-hvXufybQgmFaxgk-26" parent="Z6RI-hvXufybQgmFaxgk-4" source="Z6RI-hvXufybQgmFaxgk-20">
+        <mxCell id="Z6RI-hvXufybQgmFaxgk-27" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;6 Xử lý xóa sản phẩm&lt;/font&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="Z6RI-hvXufybQgmFaxgk-26" parent="Z6RI-hvXufybQgmFaxgk-4" source="Z6RI-hvXufybQgmFaxgk-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="30" y="200" as="sourcePoint" />
             <Array as="points">
@@ -2429,9 +2429,53 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z6RI-hvXufybQgmFaxgk-24" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;5 Yêu cầu xóa bài viết&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z6RI-hvXufybQgmFaxgk-23">
+        <mxCell id="Z6RI-hvXufybQgmFaxgk-24" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;5 Yêu cầu xóa sản phẩm&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z6RI-hvXufybQgmFaxgk-23">
           <mxGeometry x="-0.1886" y="1" relative="1" as="geometry">
             <mxPoint x="10" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z6RI-hvXufybQgmFaxgk-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="Z6RI-hvXufybQgmFaxgk-20" target="Z6RI-hvXufybQgmFaxgk-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z6RI-hvXufybQgmFaxgk-29" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;7 Yêu cầu xóa sản phẩm&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z6RI-hvXufybQgmFaxgk-28">
+          <mxGeometry x="-0.0944" y="1" relative="1" as="geometry">
+            <mxPoint x="6" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z6RI-hvXufybQgmFaxgk-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="Z6RI-hvXufybQgmFaxgk-25" target="Z6RI-hvXufybQgmFaxgk-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z6RI-hvXufybQgmFaxgk-31" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;8 Thành công&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z6RI-hvXufybQgmFaxgk-30">
+          <mxGeometry x="0.1354" y="-1" relative="1" as="geometry">
+            <mxPoint x="9" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z6RI-hvXufybQgmFaxgk-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="Z6RI-hvXufybQgmFaxgk-20" target="Z6RI-hvXufybQgmFaxgk-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z6RI-hvXufybQgmFaxgk-34" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;9 Phản hồi thành công&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z6RI-hvXufybQgmFaxgk-32">
+          <mxGeometry x="0.2361" y="-1" relative="1" as="geometry">
+            <mxPoint x="13" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z6RI-hvXufybQgmFaxgk-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="Z6RI-hvXufybQgmFaxgk-19" target="Z6RI-hvXufybQgmFaxgk-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z6RI-hvXufybQgmFaxgk-35" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;10 Thông báo thành công&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z6RI-hvXufybQgmFaxgk-33">
+          <mxGeometry x="0.2209" y="-2" relative="1" as="geometry">
+            <mxPoint x="14" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
